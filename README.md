@@ -3,7 +3,7 @@
 This project is to help facilitate the data collected in research lab in different format.
 TRI-mapping allows event synchronization between vehicle OBD data .csv to MATLAB file and interchangable format
 There are three mapping function in this project
-
+test.1
 ## mapTripEvent
 
 Allow user to map on-road dynamic event to OBD data .csv and finalize in .mat file
