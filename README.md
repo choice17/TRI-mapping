@@ -12,7 +12,7 @@ Allow user to map on-road dynamic event to OBD data .csv and finalize in .mat fi
 
 Allow user to map the matlab nntool on-road dynamic event detection result to video frame
 
-## syncWLE2TRI
+## mapWLE2TRI
 
 Allow user to synchronize WLE project data to TRI data for research work.
 
