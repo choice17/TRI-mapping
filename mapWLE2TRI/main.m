@@ -9,7 +9,7 @@ addpath include;
 %% configuration
 % file stored in data/ to be mapping
 
-input_file=['SongWangTrip' num2str(6) '_synchronized data.csv'];
+input_file=['SongWangTrip' num2str(5) '_synchronized data.csv'];
 mapWLE2TRI(input_file);
 
 %% reference information about the event/context attr in wle sync data
